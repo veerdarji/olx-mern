@@ -1,0 +1,54 @@
+/* NAVBAR */
+
+/* MAIN */
+
+/* ITEM CARD */
+
+/* LOG-IN */
+
+/* AUTHENTICATE */
+
+/* USER PAGE */
+/* .userPageDiv {
+  background-color: #fef1d1;
+  padding: 1% 0;
+}
+.userPageText i {
+  font-size: 1.2rem;
+  margin: 0% 2%;
+  padding: 0.1% 1%;
+  border: 1px solid #d7b55f;
+  border-radius: 0.6rem;
+  color: #535252;
+  background-color: #fefaeb;
+  font-style: oblique;
+}
+.userPageText i img {
+  height: 1rem;
+  margin-right: 0.3%;
+}
+.refresh {
+  text-align: end;
+  padding: 0 2%;
+}
+.refresh b {
+  color: #535252;
+  border-radius: 0.8rem;
+  border: 1px solid #d7b55f;
+  padding: 1% 2%;
+  background-color: #fefaeb;
+}
+.refresh b:hover {
+  color: white;
+  background-color: #f8bd51;
+  cursor: pointer;
+}
+
+/* LIST ITEM */
+
+/* MY ACCOUNT */
+
+/* FOOTER */
+
+/* @media (max-width: 1000px) {
+} */
