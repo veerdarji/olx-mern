@@ -53,14 +53,8 @@ function Login(props) {
           x
         </b>
       </p>
-      <div className="bg-[#fff2f5] text-red-400 mx-8 md:mx-16 grid grid-cols-1 md:grid-cols-3 rounded-xl">
-        <div className="imgDiv col-span-2">
-          <img
-            className="w-full h-full rounded-xl"
-            src="/wonderwoman.webp"
-            alt=""
-          />
-        </div>
+      <div className="bg-[#fff2f5]  text-red-400 mx-8 flex items-center justify-center grid grid-cols-1 md:grid-cols-3 rounded-xl">
+        
         <div className="loginDiv px-4">
           <p className="authenticateText font-fredoka text-xl md:text-3xl my-4 md:my-8">
             {' '}
